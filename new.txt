@@ -1,0 +1,2 @@
+This is a sample to ignore.
+This is the new_branch.
